@@ -1,0 +1,1414 @@
+Y_real= 0.7457745266524521 Y_fake= 0.7322366355062538 G_loss= 0.3148924399079201
+epoh= 0 loss_D= 0.7445555702606971 loss_G= 0.08316112875095191 loss_sty= 8.72546293489474e-05 loss_cyc= 0.23161423626368413
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7497825858661452 Y_fake= 0.7304523787083658 G_loss= 0.25968817709252945
+epoh= 1 loss_D= 0.728725834548272 loss_G= 0.08750532212041041 loss_sty= 0.00010574473281999908 loss_cyc= 0.17204398513029054
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7437568617279868 Y_fake= 0.7296866584770583 G_loss= 0.24473787226865218
+epoh= 2 loss_D= 0.72923279787741 loss_G= 0.08569365873464031 loss_sty= 6.156871666314908e-05 loss_cyc= 0.15895951682437412
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7409747329011962 Y_fake= 0.7303307393968508 G_loss= 0.2379537596197396
+epoh= 3 loss_D= 0.7299918994508885 loss_G= 0.08543458184844034 loss_sty= 4.796508461226581e-05 loss_cyc= 0.15245422383619323
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7383194028626423 Y_fake= 0.7316667275704645 G_loss= 0.23020655534079149
+epoh= 4 loss_D= 0.731328372969418 loss_G= 0.08379883841671226 loss_sty= 2.233280970028158e-05 loss_cyc= 0.14637941258449763
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7376460354724849 Y_fake= 0.7291226570267935 G_loss= 0.22904215424913107
+epoh= 5 loss_D= 0.7284196196627375 loss_G= 0.08592894740050307 loss_sty= 3.495008743695163e-05 loss_cyc= 0.14306690670373673
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7349322757406814 Y_fake= 0.7263963101683436 G_loss= 0.22613104738647472
+epoh= 6 loss_D= 0.7250804649665952 loss_G= 0.08762036209432031 loss_sty= 1.8588498361365253e-05 loss_cyc= 0.13848728818560926
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7329528977893092 Y_fake= 0.7229328763142631 G_loss= 0.22671849181170803
+epoh= 7 loss_D= 0.7213883756131336 loss_G= 0.09038167611563679 loss_sty= 1.8042294244282488e-05 loss_cyc= 0.13631398045627802
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7318337310760005 Y_fake= 0.7198509403781311 G_loss= 0.22776106753499825
+epoh= 8 loss_D= 0.7173074664598381 loss_G= 0.09290883708524995 loss_sty= 4.249043334963259e-05 loss_cyc= 0.13479742128559313
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7315300432965159 Y_fake= 0.7187377929788183 G_loss= 0.22608553380957125
+epoh= 9 loss_D= 0.7161362519789789 loss_G= 0.09430895808681443 loss_sty= 1.1122285360673575e-05 loss_cyc= 0.13176268629566137
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7292864531580661 Y_fake= 0.7152257154670518 G_loss= 0.22893118897666903
+epoh= 10 loss_D= 0.7127525123163454 loss_G= 0.096986859136991 loss_sty= 2.1507297422406713e-05 loss_cyc= 0.13191721027691825
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7284651903334904 Y_fake= 0.7107061663944576 G_loss= 0.23124984719765349
+epoh= 11 loss_D= 0.7066557849883228 loss_G= 0.10102568462575987 loss_sty= 1.8917699327864062e-05 loss_cyc= 0.1301998253345389
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.726385508110193 Y_fake= 0.7100794789054103 G_loss= 0.2292258047964424
+epoh= 12 loss_D= 0.7067386716277011 loss_G= 0.10194394577253685 loss_sty= 1.7835840459475867e-05 loss_cyc= 0.12725957805397795
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7240941950648621 Y_fake= 0.7062425427768078 G_loss= 0.23160871026748037
+epoh= 13 loss_D= 0.702059902829697 loss_G= 0.10542834570986924 loss_sty= 2.4969147522972128e-05 loss_cyc= 0.1261480848125585
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7232600827072118 Y_fake= 0.7028730298467988 G_loss= 0.232891076263292
+epoh= 14 loss_D= 0.6983313458040357 loss_G= 0.10827673994700072 loss_sty= 2.8638921571962635e-05 loss_cyc= 0.12457766349433695
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7221440770537466 Y_fake= 0.6985700108438126 G_loss= 0.23766352706651733
+epoh= 15 loss_D= 0.6932910232225785 loss_G= 0.11253635333638601 loss_sty= 9.072812429167243e-05 loss_cyc= 0.12500817916903495
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7217662200784764 Y_fake= 0.696407449935135 G_loss= 0.23872454281317423
+epoh= 16 loss_D= 0.690241777036037 loss_G= 0.11547421152794708 loss_sty= 2.798975221926289e-05 loss_cyc= 0.12321387101877229
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7221998510806745 Y_fake= 0.6880801697387486 G_loss= 0.24699393933878053
+epoh= 17 loss_D= 0.6812450891813716 loss_G= 0.12344864105673607 loss_sty= 1.539525308120377e-05 loss_cyc= 0.12352533428143156
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7217624335348405 Y_fake= 0.6883100179728825 G_loss= 0.24598830237959488
+epoh= 18 loss_D= 0.6811930280606691 loss_G= 0.1240450248241777 loss_sty= 1.9153807433231368e-05 loss_cyc= 0.12191821245722019
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7261847072734019 Y_fake= 0.6848222713640614 G_loss= 0.2508574909643849
+epoh= 19 loss_D= 0.6766993055321477 loss_G= 0.1281361725642283 loss_sty= 1.611660341778416e-05 loss_cyc= 0.12270011386292912
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7209195606536358 Y_fake= 0.6828077674490979 G_loss= 0.2531238813236406
+epoh= 20 loss_D= 0.6756345181146989 loss_G= 0.13099488529386125 loss_sty= 2.699622738160739e-05 loss_cyc= 0.12209466646261816
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7204607727786375 Y_fake= 0.6795307976520948 G_loss= 0.25638547044473925
+epoh= 21 loss_D= 0.6712560802698135 loss_G= 0.13445242900303817 loss_sty= 1.3031722612349523e-05 loss_cyc= 0.12191617559496867
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7177594467947209 Y_fake= 0.6768909463205853 G_loss= 0.25902744353673346
+epoh= 22 loss_D= 0.6687390313710313 loss_G= 0.13778880636468907 loss_sty= 2.2464985758344137e-05 loss_cyc= 0.12120964393221043
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7218506234270092 Y_fake= 0.6753871174201973 G_loss= 0.2635309128342448
+epoh= 23 loss_D= 0.666134539614054 loss_G= 0.1407170780380634 loss_sty= 1.3361171322439741e-05 loss_cyc= 0.12279655771468438
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7188544930084735 Y_fake= 0.6726530776988413 G_loss= 0.265261564557944
+epoh= 24 loss_D= 0.6641890562919749 loss_G= 0.14413477905720748 loss_sty= 2.2454069016623327e-05 loss_cyc= 0.12109768711584243
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7169582621395789 Y_fake= 0.6741826062065523 G_loss= 0.2653609409745833
+epoh= 25 loss_D= 0.666391883762805 loss_G= 0.14423832328631417 loss_sty= 2.8055564389678938e-05 loss_cyc= 0.1210861827633847
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7206149946747197 Y_fake= 0.6694539970265249 G_loss= 0.2716261918996335
+epoh= 26 loss_D= 0.6598715766937144 loss_G= 0.15044864186799983 loss_sty= 1.1071559113686916e-05 loss_cyc= 0.12116309499047143
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.722010421705105 Y_fake= 0.6714255004315763 G_loss= 0.2722832542982557
+epoh= 27 loss_D= 0.6627982029112408 loss_G= 0.1503424787857708 loss_sty= 1.769569951807785e-05 loss_cyc= 0.1219172167176431
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7179459808268458 Y_fake= 0.6662416947200089 G_loss= 0.27676145090230714
+epoh= 28 loss_D= 0.6571816311318528 loss_G= 0.15530056751929414 loss_sty= 2.2190943325681843e-05 loss_cyc= 0.12143180251587182
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7193778741702035 Y_fake= 0.6658997587305872 G_loss= 0.2788975191352939
+epoh= 29 loss_D= 0.6574906073133083 loss_G= 0.15694757143501192 loss_sty= 1.7430521045359972e-05 loss_cyc= 0.12192702075195927
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7180124152250387 Y_fake= 0.665634161264107 G_loss= 0.28060524765326567
+epoh= 30 loss_D= 0.6578531516086612 loss_G= 0.1582146080185634 loss_sty= 1.4892893570528966e-05 loss_cyc= 0.12237066945306503
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.719209689181298 Y_fake= 0.6609804612030653 G_loss= 0.28799638405089845
+epoh= 31 loss_D= 0.6515506981695826 loss_G= 0.16446862695738673 loss_sty= 1.978620601012399e-05 loss_cyc= 0.12350114021525793
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7196854150954735 Y_fake= 0.6609590602535251 G_loss= 0.2868845645665518
+epoh= 32 loss_D= 0.6517229099330064 loss_G= 0.16470987212370666 loss_sty= 1.159176916472289e-05 loss_cyc= 0.12215941019098249
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7155103681961427 Y_fake= 0.6604345748326867 G_loss= 0.2850483047423532
+epoh= 33 loss_D= 0.6523611880335454 loss_G= 0.16384425374515657 loss_sty= 1.967153967426212e-05 loss_cyc= 0.12117824793598186
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7204508986449927 Y_fake= 0.6576203560406292 G_loss= 0.2918135850451182
+epoh= 34 loss_D= 0.6479510517564375 loss_G= 0.16923114293918795 loss_sty= 2.333061499755147e-05 loss_cyc= 0.12255147656557981
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7178454853694987 Y_fake= 0.6580358926408194 G_loss= 0.2908901323318934
+epoh= 35 loss_D= 0.6492877176685913 loss_G= 0.16865644806435937 loss_sty= 2.535847203630879e-05 loss_cyc= 0.12219991916601823
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7172399919505257 Y_fake= 0.6490574386851812 G_loss= 0.3025084556917333
+epoh= 36 loss_D= 0.6388463197351509 loss_G= 0.178760935222837 loss_sty= 1.4034612309547515e-05 loss_cyc= 0.12372887485843101
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7167517377969783 Y_fake= 0.6510604629041375 G_loss= 0.3016667801326745
+epoh= 37 loss_D= 0.6420956264577202 loss_G= 0.17809385998722016 loss_sty= 2.327037669306879e-05 loss_cyc= 0.12354073715490617
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.720168970047018 Y_fake= 0.6511148147637377 G_loss= 0.3008787789998727
+epoh= 38 loss_D= 0.6405837872770388 loss_G= 0.1784906097785318 loss_sty= 1.0998840636873226e-05 loss_cyc= 0.12237347954116459
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7176678925375076 Y_fake= 0.6509426925457209 G_loss= 0.3031696789753246
+epoh= 39 loss_D= 0.6424244745710009 loss_G= 0.18039932652184665 loss_sty= 2.441872924298484e-05 loss_cyc= 0.12273813165862717
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7212704649774005 Y_fake= 0.6482735509493363 G_loss= 0.30542938310866924
+epoh= 40 loss_D= 0.6376165135864269 loss_G= 0.181997342931887 loss_sty= 1.9374357610079618e-05 loss_cyc= 0.12340641484086125
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7187358604718905 Y_fake= 0.6512788354318488 G_loss= 0.3017146380655971
+epoh= 41 loss_D= 0.6433782392760387 loss_G= 0.17999306407747664 loss_sty= 1.6065844964007714e-05 loss_cyc= 0.12170015112024958
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7180430856910912 Y_fake= 0.6456317121817453 G_loss= 0.3084041499721541
+epoh= 42 loss_D= 0.6343720005825162 loss_G= 0.1864520002060532 loss_sty= 1.7126641370015096e-05 loss_cyc= 0.12192876046724818
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7174985305078931 Y_fake= 0.642118286404356 G_loss= 0.31249865176898706
+epoh= 43 loss_D= 0.6320081406675682 loss_G= 0.19007263125889506 loss_sty= 3.7709863947285966e-05 loss_cyc= 0.12237430301280944
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7167507914851445 Y_fake= 0.6432246661216423 G_loss= 0.31276412158763994
+epoh= 44 loss_D= 0.6339999881975755 loss_G= 0.19049490548393413 loss_sty= 2.1760936158750917e-05 loss_cyc= 0.12224016093170724
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7195664644493042 Y_fake= 0.643005306077366 G_loss= 0.3155146793059602
+epoh= 45 loss_D= 0.6331039698215554 loss_G= 0.1924992020775224 loss_sty= 1.4608258050282382e-05 loss_cyc= 0.12299516894760214
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.712069254922303 Y_fake= 0.6433217557197487 G_loss= 0.31040240101189026
+epoh= 46 loss_D= 0.6347185982819143 loss_G= 0.1890651011505995 loss_sty= 9.966253616300025e-06 loss_cyc= 0.12132405306722314
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.714912454283016 Y_fake= 0.6418599006971596 G_loss= 0.31485155335237347
+epoh= 47 loss_D= 0.6318012054732723 loss_G= 0.19271332450129242 loss_sty= 6.528619185185046e-05 loss_cyc= 0.12205151243078699
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7162636821535794 Y_fake= 0.6397441332731899 G_loss= 0.31787330611936143
+epoh= 48 loss_D= 0.6300326079142758 loss_G= 0.19554958988619792 loss_sty= 9.098121343204429e-06 loss_cyc= 0.12231150356662535
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7158300039811513 Y_fake= 0.6378460266954593 G_loss= 0.3192242122903416
+epoh= 49 loss_D= 0.6284681739461785 loss_G= 0.19692852428714694 loss_sty= 1.3417252762952262e-05 loss_cyc= 0.12227728646374433
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7144574198897022 Y_fake= 0.632447311472198 G_loss= 0.32444782281369977
+epoh= 50 loss_D= 0.6208693794151013 loss_G= 0.20275554645215035 loss_sty= 2.187706803778309e-05 loss_cyc= 0.12166002853553289
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7137851806080623 Y_fake= 0.6355694773342662 G_loss= 0.32193341283316446
+epoh= 51 loss_D= 0.6248651849030441 loss_G= 0.20080122453234522 loss_sty= 2.2862253429692016e-05 loss_cyc= 0.12110133723802613
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7162141510461634 Y_fake= 0.6389761820460695 G_loss= 0.3195523750194273
+epoh= 52 loss_D= 0.629661903464915 loss_G= 0.19766673407394666 loss_sty= 2.288114879357218e-05 loss_cyc= 0.12185477606505407
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7174897122926809 Y_fake= 0.6297767578901069 G_loss= 0.327469041089628
+epoh= 53 loss_D= 0.6178281451827167 loss_G= 0.20553318224060727 loss_sty= 1.2083636822869783e-05 loss_cyc= 0.12191922159242519
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7159108896739781 Y_fake= 0.6445772348135408 G_loss= 0.3130725156484373
+epoh= 54 loss_D= 0.6365188750551661 loss_G= 0.19251732633258783 loss_sty= 2.99897216631802e-05 loss_cyc= 0.12051341790749968
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7210425301580816 Y_fake= 0.6269748388865107 G_loss= 0.3316235653741436
+epoh= 55 loss_D= 0.6135769751728386 loss_G= 0.21111089296971694 loss_sty= 1.3918627129552644e-05 loss_cyc= 0.12049339980522573
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7168433291308984 Y_fake= 0.6293951015340516 G_loss= 0.3309315068590631
+epoh= 56 loss_D= 0.6175807226587691 loss_G= 0.2109892718404267 loss_sty= 1.1174926621729478e-05 loss_cyc= 0.11992708726226024
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7200058235258266 Y_fake= 0.6266669081964504 G_loss= 0.33291597584753324
+epoh= 57 loss_D= 0.6146119089507674 loss_G= 0.21245442092618463 loss_sty= 2.0611718527278925e-05 loss_cyc= 0.12043391800535894
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7181874000265993 Y_fake= 0.6250132072490413 G_loss= 0.3347546780337202
+epoh= 58 loss_D= 0.6130333161233245 loss_G= 0.2145799244392185 loss_sty= 1.4999572773081741e-05 loss_cyc= 0.1201545490011749
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7180557642069116 Y_fake= 0.6203517829999328 G_loss= 0.34182205114110903
+epoh= 59 loss_D= 0.6071050703821301 loss_G= 0.22095751456091986 loss_sty= 2.126564065194445e-05 loss_cyc= 0.12083588062464637
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+  0%|          | 0/60 [00:00<?, ?it/s]  2%|▏         | 1/60 [00:00<00:17,  3.32it/s]  3%|▎         | 2/60 [00:00<00:16,  3.54it/s]  5%|▌         | 3/60 [00:00<00:17,  3.25it/s]  7%|▋         | 4/60 [00:01<00:17,  3.27it/s]  8%|▊         | 5/60 [00:01<00:16,  3.24it/s] 10%|█         | 6/60 [00:01<00:16,  3.30it/s] 12%|█▏        | 7/60 [00:02<00:16,  3.13it/s] 13%|█▎        | 8/60 [00:02<00:18,  2.88it/s] 15%|█▌        | 9/60 [00:02<00:17,  2.92it/s] 17%|█▋        | 10/60 [00:03<00:18,  2.78it/s] 18%|█▊        | 11/60 [00:03<00:16,  2.94it/s] 20%|██        | 12/60 [00:03<00:15,  3.05it/s] 22%|██▏       | 13/60 [00:04<00:14,  3.20it/s] 23%|██▎       | 14/60 [00:04<00:14,  3.25it/s] 25%|██▌       | 15/60 [00:04<00:13,  3.25it/s] 27%|██▋       | 16/60 [00:05<00:12,  3.52it/s] 28%|██▊       | 17/60 [00:05<00:13,  3.27it/s] 30%|███       | 18/60 [00:05<00:12,  3.47it/s] 32%|███▏      | 19/60 [00:05<00:12,  3.20it/s] 33%|███▎      | 20/60 [00:06<00:13,  2.94it/s] 35%|███▌      | 21/60 [00:06<00:11,  3.31it/s] 37%|███▋      | 22/60 [00:06<00:11,  3.33it/s] 38%|███▊      | 23/60 [00:07<00:11,  3.35it/s] 40%|████      | 24/60 [00:07<00:10,  3.29it/s] 42%|████▏     | 25/60 [00:07<00:11,  3.11it/s] 43%|████▎     | 26/60 [00:08<00:09,  3.41it/s] 45%|████▌     | 27/60 [00:08<00:10,  3.17it/s] 47%|████▋     | 28/60 [00:08<00:09,  3.45it/s] 48%|████▊     | 29/60 [00:09<00:09,  3.34it/s] 50%|█████     | 30/60 [00:09<00:08,  3.43it/s] 52%|█████▏    | 31/60 [00:09<00:08,  3.39it/s] 53%|█████▎    | 32/60 [00:09<00:08,  3.43it/s] 55%|█████▌    | 33/60 [00:10<00:07,  3.45it/s] 57%|█████▋    | 34/60 [00:10<00:07,  3.55it/s] 58%|█████▊    | 35/60 [00:10<00:07,  3.33it/s] 60%|██████    | 36/60 [00:10<00:06,  3.61it/s] 62%|██████▏   | 37/60 [00:11<00:06,  3.45it/s] 63%|██████▎   | 38/60 [00:11<00:06,  3.49it/s] 65%|██████▌   | 39/60 [00:11<00:05,  3.51it/s] 67%|██████▋   | 40/60 [00:12<00:05,  3.46it/s] 68%|██████▊   | 41/60 [00:12<00:05,  3.65it/s] 70%|███████   | 42/60 [00:12<00:05,  3.50it/s] 72%|███████▏  | 43/60 [00:13<00:04,  3.50it/s] 73%|███████▎  | 44/60 [00:13<00:05,  3.16it/s] 75%|███████▌  | 45/60 [00:13<00:04,  3.18it/s] 77%|███████▋  | 46/60 [00:14<00:04,  3.25it/s] 78%|███████▊  | 47/60 [00:14<00:04,  3.06it/s] 80%|████████  | 48/60 [00:14<00:03,  3.29it/s] 82%|████████▏ | 49/60 [00:14<00:03,  3.39it/s] 83%|████████▎ | 50/60 [00:15<00:03,  3.12it/s] 85%|████████▌ | 51/60 [00:15<00:02,  3.22it/s] 87%|████████▋ | 52/60 [00:15<00:02,  3.21it/s] 88%|████████▊ | 53/60 [00:16<00:02,  3.28it/s] 90%|█████████ | 54/60 [00:16<00:01,  3.28it/s] 92%|█████████▏| 55/60 [00:16<00:01,  3.52it/s] 93%|█████████▎| 56/60 [00:17<00:01,  3.41it/s] 95%|█████████▌| 57/60 [00:17<00:00,  3.24it/s] 97%|█████████▋| 58/60 [00:17<00:00,  3.52it/s] 98%|█████████▊| 59/60 [00:17<00:00,  3.41it/s]100%|██████████| 60/60 [00:18<00:00,  3.14it/s]100%|██████████| 60/60 [00:18<00:00,  3.28it/s]
+=> Loading checkpoint
+=> Loading checkpoint
+=> Loading checkpoint
+Y_real= 0.721393981721957 Y_fake= 0.6222433230046787 G_loss= 0.3394687360851094
+epoh= 0 loss_D= 0.6085607648411816 loss_G= 0.21730006743825003 loss_sty= 3.969582472392004e-05 loss_cyc= 0.12212001833108228
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+=> Loading checkpoint
+=> Loading checkpoint
+=> Loading checkpoint
+Y_real= 0.7243919689082414 Y_fake= 0.6130438839475548 G_loss= 0.34847086494650087
+epoh= 0 loss_D= 0.5977203803187287 loss_G= 0.22712441531129535 loss_sty= 1.6835296482772595e-05 loss_cyc= 0.12132320538748408
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7301925577449839 Y_fake= 0.6036492153763067 G_loss= 0.3594480283193391
+epoh= 1 loss_D= 0.589715883507066 loss_G= 0.2351996490851397 loss_sty= 1.1575609413420033e-05 loss_cyc= 0.12423203858181935
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7185216735972947 Y_fake= 0.6118562962180255 G_loss= 0.349806793499738
+epoh= 2 loss_D= 0.5992979180772562 loss_G= 0.22967884673483707 loss_sty= 4.1016049064293496e-05 loss_cyc= 0.1200667336123769
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7245647166855633 Y_fake= 0.6040705375474047 G_loss= 0.3572466798390992
+epoh= 3 loss_D= 0.5884606227171734 loss_G= 0.2370136322220001 loss_sty= 2.2464731365609032e-05 loss_cyc= 0.12020188294401443
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7214669884195098 Y_fake= 0.6099102629688442 G_loss= 0.3539587886488015
+epoh= 4 loss_D= 0.5952535554502361 loss_G= 0.2335232053482213 loss_sty= 8.92949296448441e-06 loss_cyc= 0.12042302751403956
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7208267219138105 Y_fake= 0.6036537553284418 G_loss= 0.35895092609162266
+epoh= 5 loss_D= 0.5888033542920508 loss_G= 0.23895235209941323 loss_sty= 5.997004627654344e-05 loss_cyc= 0.11991887192267019
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7235812024918158 Y_fake= 0.5999387551564723 G_loss= 0.36300107603892684
+epoh= 6 loss_D= 0.583390435650693 loss_G= 0.24377891519823705 loss_sty= 1.1480354564318495e-05 loss_cyc= 0.11920569977892966
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7186032502056175 Y_fake= 0.6015444449463708 G_loss= 0.3656413637800142
+epoh= 7 loss_D= 0.5888255344439499 loss_G= 0.24530600609865064 loss_sty= 1.6823957701711373e-05 loss_cyc= 0.12031212831356537
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.730872920777246 Y_fake= 0.5975610264702826 G_loss= 0.3708697778481134
+epoh= 8 loss_D= 0.5820712060604647 loss_G= 0.24787437594440653 loss_sty= 2.5926684696895717e-05 loss_cyc= 0.12295946939313482
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7378292797397621 Y_fake= 0.571365209648738 G_loss= 0.39301765698159263
+epoh= 9 loss_D= 0.5519936870015856 loss_G= 0.2709475905733573 loss_sty= 1.2451464548625202e-05 loss_cyc= 0.12205306369326757
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.725817524374941 Y_fake= 0.5974970360764781 G_loss= 0.3700264982715551
+epoh= 10 loss_D= 0.5822933670259207 loss_G= 0.2501055791634261 loss_sty= 2.8064986767079774e-05 loss_cyc= 0.11988339949134938
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.731016648178165 Y_fake= 0.582861266898092 G_loss= 0.3812058652228852
+epoh= 11 loss_D= 0.5653174966888351 loss_G= 0.2612582491250627 loss_sty= 1.1740444524794174e-05 loss_cyc= 0.11993111843224363
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7242002624867333 Y_fake= 0.6050099314354058 G_loss= 0.3565672916467176
+epoh= 12 loss_D= 0.5950614333347846 loss_G= 0.2364552532176399 loss_sty= 1.629559178766342e-05 loss_cyc= 0.12009004722317881
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.728116279386135 Y_fake= 0.5819594196383715 G_loss= 0.386695865003669
+epoh= 13 loss_D= 0.5650469189748872 loss_G= 0.2661818229381744 loss_sty= 6.896317294118685e-05 loss_cyc= 0.1204207351704984
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7348201135362221 Y_fake= 0.5778521544306312 G_loss= 0.39152440037641273
+epoh= 14 loss_D= 0.5604920125899937 loss_G= 0.26939430590770114 loss_sty= 2.1896030839466345e-05 loss_cyc= 0.12209921846688548
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7117140248191316 Y_fake= 0.6314933722133975 G_loss= 0.3260469905421692
+epoh= 15 loss_D= 0.6253503755339094 loss_G= 0.2080547882372205 loss_sty= 6.05067970649838e-05 loss_cyc= 0.11790832102525274
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7403144636254355 Y_fake= 0.5686526767141815 G_loss= 0.39889008703805207
+epoh= 16 loss_D= 0.5490665907335996 loss_G= 0.27733847206911527 loss_sty= 9.556639606610071e-06 loss_cyc= 0.12153832521761541
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7145286105459908 Y_fake= 0.6140794881455902 G_loss= 0.34709055366850383
+epoh= 17 loss_D= 0.6067568905387275 loss_G= 0.23011603360292437 loss_sty= 1.2006969098832554e-05 loss_cyc= 0.11695766303455457
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7296974385862012 Y_fake= 0.5801817027826768 G_loss= 0.38573137205408736
+epoh= 18 loss_D= 0.5600271181870453 loss_G= 0.2664420391811291 loss_sty= 1.1860720686965234e-05 loss_cyc= 0.11927261472698553
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7301241136030168 Y_fake= 0.5712742375499392 G_loss= 0.39514890576498835
+epoh= 19 loss_D= 0.5544630827923381 loss_G= 0.27612521254805206 loss_sty= 2.325772100669604e-05 loss_cyc= 0.11899095025649797
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.7358743461805421 Y_fake= 0.5631734968660198 G_loss= 0.40185277822830184
+epoh= 20 loss_D= 0.5448357782584641 loss_G= 0.2817734388234975 loss_sty= 3.0530824592706516e-05 loss_cyc= 0.12003414291177399
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.723887069295538 Y_fake= 0.580909749345124 G_loss= 0.3871293548098136
+epoh= 21 loss_D= 0.5651882270262955 loss_G= 0.26860971763380803 loss_sty= 4.299433314028303e-05 loss_cyc= 0.11846163625375845
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+---------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------
+=> Loading checkpoint
+=> Loading checkpoint
+=> Loading checkpoint
+Y_real= 0.6873866940684918 Y_fake= 0.6334567855212938 G_loss= 0.275603789527825
+epoh= 0 loss_D= 0.6256106355655435 loss_G= 0.165378126399741 loss_sty= 4.931436534034957e-06 loss_cyc= 0.11021924222901312
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6847666578518378 Y_fake= 0.6421024313926496 G_loss= 0.2657558727927657
+epoh= 1 loss_D= 0.6350794629747601 loss_G= 0.15690742634713487 loss_sty= 4.334104257420246e-06 loss_cyc= 0.10884276961882573
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6850391031444274 Y_fake= 0.6464354218915105 G_loss= 0.2613122644960075
+epoh= 2 loss_D= 0.6382321627949037 loss_G= 0.15295634567037514 loss_sty= 4.054531596134561e-06 loss_cyc= 0.10835057171848225
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6825175895984914 Y_fake= 0.6470924367926814 G_loss= 0.2593414957628812
+epoh= 3 loss_D= 0.6396513737209544 loss_G= 0.15161593389387457 loss_sty= 3.68521794961133e-06 loss_cyc= 0.1077207411164292
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6822485896456685 Y_fake= 0.6461503837081427 G_loss= 0.2594611220709929
+epoh= 4 loss_D= 0.6375376065765079 loss_G= 0.1520490504194026 loss_sty= 3.423138964166896e-06 loss_cyc= 0.10740759045458273
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.683169784401921 Y_fake= 0.6479767065470081 G_loss= 0.25716699800466664
+epoh= 5 loss_D= 0.6391729774847124 loss_G= 0.15011867927308697 loss_sty= 3.2908169118486143e-06 loss_cyc= 0.10704398896180194
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6834356017234559 Y_fake= 0.648794825088132 G_loss= 0.25627406352086346
+epoh= 6 loss_D= 0.640869136534732 loss_G= 0.14950678672490492 loss_sty= 3.091464970959744e-06 loss_cyc= 0.10676317883504403
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6844554364152655 Y_fake= 0.6501648743838273 G_loss= 0.2545648200210889
+epoh= 7 loss_D= 0.6410594392265823 loss_G= 0.14804002254134724 loss_sty= 2.9787979902057734e-06 loss_cyc= 0.10652088308455171
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6833176118623767 Y_fake= 0.651584719118939 G_loss= 0.2530077819058017
+epoh= 8 loss_D= 0.6442344705196651 loss_G= 0.14665324113809983 loss_sty= 2.9127351495303997e-06 loss_cyc= 0.10635069162251327
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6851507426692626 Y_fake= 0.6526221304099906 G_loss= 0.2519418857236569
+epoh= 9 loss_D= 0.6435889061540365 loss_G= 0.146084490519275 loss_sty= 3.033877093814128e-06 loss_cyc= 0.10585336025640671
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6825301316189202 Y_fake= 0.653149637695704 G_loss= 0.2512501807272988
+epoh= 10 loss_D= 0.6457589114890308 loss_G= 0.14530089951074696 loss_sty= 2.886054326646027e-06 loss_cyc= 0.10594546581568146
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6841614878912633 Y_fake= 0.6524362282802325 G_loss= 0.2515652676654124
+epoh= 11 loss_D= 0.6443852857510383 loss_G= 0.14571502347275414 loss_sty= 2.7811825819643106e-06 loss_cyc= 0.10584654424314362
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6843579170243764 Y_fake= 0.6531743623341459 G_loss= 0.2503539907519479
+epoh= 12 loss_D= 0.6447811863460654 loss_G= 0.14472863692916124 loss_sty= 2.8920154437474666e-06 loss_cyc= 0.10562148378734049
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6836985462420696 Y_fake= 0.6532856891988903 G_loss= 0.25034451827948057
+epoh= 13 loss_D= 0.64551981919873 loss_G= 0.14500523797068052 loss_sty= 2.615317111416811e-06 loss_cyc= 0.10533580267990662
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6849915726815123 Y_fake= 0.6554304644138225 G_loss= 0.24850280796542662
+epoh= 14 loss_D= 0.6462304993985674 loss_G= 0.1432277368117325 loss_sty= 2.551326791010954e-06 loss_cyc= 0.10527167059292362
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6851044781631916 Y_fake= 0.6564703719136683 G_loss= 0.24753687267091024
+epoh= 15 loss_D= 0.6482833642638415 loss_G= 0.14224426457508957 loss_sty= 2.562258450288445e-06 loss_cyc= 0.10528920661985271
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6835493349747078 Y_fake= 0.6562031732268028 G_loss= 0.24714317462230856
+epoh= 16 loss_D= 0.6485617842802124 loss_G= 0.1420611391953866 loss_sty= 2.4747078109735534e-06 loss_cyc= 0.10507876277001374
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6827397059296837 Y_fake= 0.6535883488989359 G_loss= 0.24889149195892182
+epoh= 17 loss_D= 0.6460176755145595 loss_G= 0.14391512582526933 loss_sty= 2.4362596475937706e-06 loss_cyc= 0.10497313513219156
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6841884731013026 Y_fake= 0.655960008489421 G_loss= 0.2470121360541246
+epoh= 18 loss_D= 0.6477416755530883 loss_G= 0.14223040456764047 loss_sty= 2.5058885401793647e-06 loss_cyc= 0.10477838340857243
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6849053557584616 Y_fake= 0.6560165116915831 G_loss= 0.24702632643370512
+epoh= 19 loss_D= 0.6472989192257661 loss_G= 0.14214756269860584 loss_sty= 2.3656336169723716e-06 loss_cyc= 0.10487563264354863
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6840758735716745 Y_fake= 0.6578131946986793 G_loss= 0.24539005453069065
+epoh= 20 loss_D= 0.6505473438474173 loss_G= 0.1407795450315855 loss_sty= 2.3546727248145004e-06 loss_cyc= 0.10460736701969763
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.686030357144773 Y_fake= 0.6568682070922207 G_loss= 0.24596795461115403
+epoh= 21 loss_D= 0.6470766345391402 loss_G= 0.1414408582853424 loss_sty= 2.3129770876973475e-06 loss_cyc= 0.10452402074431144
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6840442706377724 Y_fake= 0.6594891983109552 G_loss= 0.2433144006959943
+epoh= 22 loss_D= 0.652827100199018 loss_G= 0.13906099587345394 loss_sty= 2.237908943612097e-06 loss_cyc= 0.10425041699341524
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.683662540656892 Y_fake= 0.6577697072203297 G_loss= 0.24476854110174384
+epoh= 23 loss_D= 0.6497703965979855 loss_G= 0.14039658736657804 loss_sty= 2.339878871704993e-06 loss_cyc= 0.10436880841341524
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6846106006587679 Y_fake= 0.6572760369100079 G_loss= 0.2447649768515918
+epoh= 24 loss_D= 0.649305824643454 loss_G= 0.14071447027979317 loss_sty= 2.211608335602324e-06 loss_cyc= 0.10404756180375714
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.684686468020585 Y_fake= 0.6592114159736682 G_loss= 0.2430942134359046
+epoh= 25 loss_D= 0.6511995420111595 loss_G= 0.13910176766787757 loss_sty= 2.234821276697157e-06 loss_cyc= 0.10398945421911776
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6854145629709033 Y_fake= 0.6574113493961459 G_loss= 0.24434986118718074
+epoh= 26 loss_D= 0.6493638402883064 loss_G= 0.14048470479414193 loss_sty= 2.168163364546205e-06 loss_cyc= 0.10386226164504282
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6852371693412597 Y_fake= 0.6589863069380659 G_loss= 0.2430104260314004
+epoh= 27 loss_D= 0.6510722063154586 loss_G= 0.13918701162863825 loss_sty= 2.1952564927195872e-06 loss_cyc= 0.10382047554358488
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6851255886533575 Y_fake= 0.659113102051354 G_loss= 0.2424142796363732
+epoh= 28 loss_D= 0.6513438874452904 loss_G= 0.13883558648710795 loss_sty= 2.1160037151177577e-06 loss_cyc= 0.10357586823787691
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6872682502065357 Y_fake= 0.6607915084129451 G_loss= 0.24156548274756484
+epoh= 29 loss_D= 0.6523856888902752 loss_G= 0.13794049236693773 loss_sty= 2.4904144027004804e-06 loss_cyc= 0.103621545609565
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6854794096151317 Y_fake= 0.6586833521849602 G_loss= 0.24257222835817752
+epoh= 30 loss_D= 0.6495810585297845 loss_G= 0.1391418176991047 loss_sty= 2.138906487793114e-06 loss_cyc= 0.1034275549369537
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6853959879938614 Y_fake= 0.6592756805664582 G_loss= 0.24247125337038794
+epoh= 31 loss_D= 0.6508121934492845 loss_G= 0.13892772692496372 loss_sty= 2.1419345274979776e-06 loss_cyc= 0.10354063398601185
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6860993016209151 Y_fake= 0.6610709716742104 G_loss= 0.24102648456480252
+epoh= 32 loss_D= 0.6541827879594387 loss_G= 0.13765352581017273 loss_sty= 2.257169952015927e-06 loss_cyc= 0.10336989983507255
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6859553938454671 Y_fake= 0.6590714359127388 G_loss= 0.2417909233969309
+epoh= 33 loss_D= 0.6508167380643254 loss_G= 0.13858985954681663 loss_sty= 2.4751665895982533e-06 loss_cyc= 0.10319767383279631
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6843016972714985 Y_fake= 0.6608149745577091 G_loss= 0.24070119793916978
+epoh= 34 loss_D= 0.6524903107484853 loss_G= 0.1376948450964158 loss_sty= 2.096023639001647e-06 loss_cyc= 0.10300354347438426
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6839010568612532 Y_fake= 0.6607885589017659 G_loss= 0.2405193030230097
+epoh= 35 loss_D= 0.6537809295302911 loss_G= 0.1374489188939962 loss_sty= 2.114491889114032e-06 loss_cyc= 0.1030675509025821
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6865529212345546 Y_fake= 0.6622969856158503 G_loss= 0.23921813791919802
+epoh= 36 loss_D= 0.6545455563511398 loss_G= 0.13616697503036718 loss_sty= 2.0727160566870275e-06 loss_cyc= 0.1030483702354989
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6853339763081355 Y_fake= 0.6603453913074289 G_loss= 0.24044313993166527
+epoh= 37 loss_D= 0.6517444588243961 loss_G= 0.13773476264464693 loss_sty= 2.0576519119686054e-06 loss_cyc= 0.10270560751008373
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6857698292698007 Y_fake= 0.661206992053603 G_loss= 0.2394228771177901
+epoh= 38 loss_D= 0.6532221206690412 loss_G= 0.13683193245496778 loss_sty= 2.0731537076115373e-06 loss_cyc= 0.10258813729396442
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6862504880095052 Y_fake= 0.6602977308620875 G_loss= 0.24040454438560316
+epoh= 39 loss_D= 0.6516275980912551 loss_G= 0.13781422736418963 loss_sty= 2.067311654235943e-06 loss_cyc= 0.10258752889333393
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6850337335286109 Y_fake= 0.6630172915882557 G_loss= 0.23760302111544218
+epoh= 40 loss_D= 0.6563492078157896 loss_G= 0.135297128372209 loss_sty= 1.9860539080465627e-06 loss_cyc= 0.10230323535427954
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6856830654464461 Y_fake= 0.661933293717133 G_loss= 0.23892644154713363
+epoh= 41 loss_D= 0.6536257261334842 loss_G= 0.13635460321863838 loss_sty= 2.0242006972214745e-06 loss_cyc= 0.10256908845936728
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6845121280592237 Y_fake= 0.6616629410686122 G_loss= 0.23894096444977597
+epoh= 42 loss_D= 0.6550178645757606 loss_G= 0.1365942218320482 loss_sty= 2.027062962313082e-06 loss_cyc= 0.10234399030859759
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6843346610816347 Y_fake= 0.662516474811914 G_loss= 0.2377482657666897
+epoh= 43 loss_D= 0.6551900105550885 loss_G= 0.13547315613391833 loss_sty= 1.9122326439419587e-06 loss_cyc= 0.10227252850371941
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6871633196148921 Y_fake= 0.6620895697332516 G_loss= 0.2381257261023731
+epoh= 44 loss_D= 0.6531642801254183 loss_G= 0.13599047999014147 loss_sty= 1.9052259459213757e-06 loss_cyc= 0.10213267510423336
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6851351263404295 Y_fake= 0.6628974951753343 G_loss= 0.23751875893149926
+epoh= 45 loss_D= 0.6553737347870058 loss_G= 0.1354612552858197 loss_sty= 1.866376031692788e-06 loss_cyc= 0.102055005969895
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6868997989348262 Y_fake= 0.6641541522474507 G_loss= 0.23648140065032183
+epoh= 46 loss_D= 0.6561563972358566 loss_G= 0.13426132826763834 loss_sty= 2.1221265440643136e-06 loss_cyc= 0.1022171662377848
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6863410830799792 Y_fake= 0.6617643953099646 G_loss= 0.2384588877557198
+epoh= 47 loss_D= 0.653624059418468 loss_G= 0.13655630122111934 loss_sty= 2.015963734782024e-06 loss_cyc= 0.10189982063004847
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6856721422156772 Y_fake= 0.6624665940809693 G_loss= 0.23727510477151922
+epoh= 48 loss_D= 0.6548407343719658 loss_G= 0.13546727340813172 loss_sty= 1.8900287380568664e-06 loss_cyc= 0.10180527253730877
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.686002999695169 Y_fake= 0.6634804266756652 G_loss= 0.23607445853082715
+epoh= 49 loss_D= 0.6559410144172206 loss_G= 0.13450989833910246 loss_sty= 1.8577721995235471e-06 loss_cyc= 0.10156204941921641
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6859612735869313 Y_fake= 0.6609117280238787 G_loss= 0.2384548602795631
+epoh= 50 loss_D= 0.6525171332665392 loss_G= 0.13675624481638315 loss_sty= 1.8729264091824597e-06 loss_cyc= 0.10169607713642353
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6851928502170218 Y_fake= 0.6622382289151082 G_loss= 0.23720378272638126
+epoh= 51 loss_D= 0.6540326025160784 loss_G= 0.13554363092879537 loss_sty= 1.8322651010601327e-06 loss_cyc= 0.10165766077241986
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6855230598735649 Y_fake= 0.6614453959832521 G_loss= 0.23764590991384074
+epoh= 52 loss_D= 0.6534036255466777 loss_G= 0.13609674154478754 loss_sty= 1.884735700120989e-06 loss_cyc= 0.10154661477379803
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6863873889166359 Y_fake= 0.6635346823699169 G_loss= 0.23595211062127272
+epoh= 53 loss_D= 0.656171490853602 loss_G= 0.134654197069058 loss_sty= 1.902206280634788e-06 loss_cyc= 0.1012953147779823
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6855073897293895 Y_fake= 0.6637280611195475 G_loss= 0.23556899910830464
+epoh= 54 loss_D= 0.6559205063543206 loss_G= 0.13443889715110985 loss_sty= 1.8710246434705834e-06 loss_cyc= 0.10112756066106109
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6859071341066344 Y_fake= 0.66408061333051 G_loss= 0.23538698561212704
+epoh= 55 loss_D= 0.6560467854268044 loss_G= 0.13424934121163412 loss_sty= 1.7843949843006919e-06 loss_cyc= 0.10113522786382786
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6853610357471012 Y_fake= 0.6627502379611738 G_loss= 0.23653710862571323
+epoh= 56 loss_D= 0.655284252093249 loss_G= 0.1350234974878903 loss_sty= 1.7912890524638822e-06 loss_cyc= 0.10151117283699883
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6854752727054261 Y_fake= 0.6646562351316616 G_loss= 0.23462363938813577
+epoh= 57 loss_D= 0.6567144876320821 loss_G= 0.13362654552455186 loss_sty= 1.7461232260216462e-06 loss_cyc= 0.10099472102828676
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6852907130645739 Y_fake= 0.6628611026256269 G_loss= 0.23598630147092547
+epoh= 58 loss_D= 0.6550171709795659 loss_G= 0.1348885304138782 loss_sty= 1.7831109314126504e-06 loss_cyc= 0.10109534234160909
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6880661657684155 Y_fake= 0.6640933164571589 G_loss= 0.23545893379235389
+epoh= 59 loss_D= 0.6553994137667924 loss_G= 0.13429159218700276 loss_sty= 1.7577954413600555e-06 loss_cyc= 0.10116495591953296
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6849598589705655 Y_fake= 0.6629290780480448 G_loss= 0.23594292514089094
+epoh= 60 loss_D= 0.6549627315882292 loss_G= 0.1350557136001707 loss_sty= 1.7287956497229232e-06 loss_cyc= 0.10088485951780819
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6853116195069978 Y_fake= 0.6619205183374721 G_loss= 0.2363422509830294
+epoh= 61 loss_D= 0.6542589897541581 loss_G= 0.13568685799239305 loss_sty= 1.6964421793336687e-06 loss_cyc= 0.10065309293693989
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6864609777851886 Y_fake= 0.6646462641908107 G_loss= 0.23463673471171106
+epoh= 62 loss_D= 0.655764826560846 loss_G= 0.13370998113139257 loss_sty= 1.8855507732951082e-06 loss_cyc= 0.10092414398929356
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6871511351090629 Y_fake= 0.6645349236079365 G_loss= 0.2342135303062261
+epoh= 63 loss_D= 0.6564658677734032 loss_G= 0.13359069558665962 loss_sty= 1.7133974619650257e-06 loss_cyc= 0.10062050220487337
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6857767476624733 Y_fake= 0.6628177446137006 G_loss= 0.23574232977399653
+epoh= 64 loss_D= 0.6548531521111727 loss_G= 0.13499037065776065 loss_sty= 1.6314918104546599e-06 loss_cyc= 0.1007497466163005
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6845486977364164 Y_fake= 0.6630911890518021 G_loss= 0.23519229706741768
+epoh= 65 loss_D= 0.6554406006392595 loss_G= 0.13472996257100808 loss_sty= 1.7479342450560825e-06 loss_cyc= 0.10045993841265806
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6863028954311803 Y_fake= 0.6640343918288881 G_loss= 0.23430516602899376
+epoh= 66 loss_D= 0.6550592549799664 loss_G= 0.13405272308729174 loss_sty= 1.6729539225166633e-06 loss_cyc= 0.10025015754021101
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6854992736810567 Y_fake= 0.6637674629109332 G_loss= 0.23444326406004964
+epoh= 67 loss_D= 0.6560558791876443 loss_G= 0.13403303497958602 loss_sty= 1.6584358736754684e-06 loss_cyc= 0.1004079681887241
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6869287330506219 Y_fake= 0.6644577626894052 G_loss= 0.23391295556054525
+epoh= 68 loss_D= 0.6561840476870939 loss_G= 0.13360074364636848 loss_sty= 1.659725205319921e-06 loss_cyc= 0.10030995259168432
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6856555278236801 Y_fake= 0.6631408835685736 G_loss= 0.23516137876258408
+epoh= 69 loss_D= 0.6553112323320395 loss_G= 0.1348274954527025 loss_sty= 1.7100193651237312e-06 loss_cyc= 0.10033154861554755
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6868543606754896 Y_fake= 0.6633280826027732 G_loss= 0.23431572427885053
+epoh= 70 loss_D= 0.6543324931549865 loss_G= 0.13426319693885366 loss_sty= 1.684864634404909e-06 loss_cyc= 0.10005022606787246
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6872658402835196 Y_fake= 0.6643607840697104 G_loss= 0.23386380839086063
+epoh= 71 loss_D= 0.6562126992345864 loss_G= 0.13359345554065816 loss_sty= 1.621792356721975e-06 loss_cyc= 0.10026814961787062
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6857859188741123 Y_fake= 0.6640643545527112 G_loss= 0.23374575018769483
+epoh= 72 loss_D= 0.6566374222370418 loss_G= 0.13373998800179343 loss_sty= 1.6749204774355718e-06 loss_cyc= 0.10000347255766895
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6873074764562016 Y_fake= 0.664065436837641 G_loss= 0.2338544122333563
+epoh= 73 loss_D= 0.6543482916706519 loss_G= 0.1339032782188214 loss_sty= 1.6595784571207431e-06 loss_cyc= 0.09994886532060902
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6869945831194118 Y_fake= 0.6647412542480271 G_loss= 0.23329495134876688
+epoh= 74 loss_D= 0.6566189795959037 loss_G= 0.13313539082426704 loss_sty= 1.616648432900547e-06 loss_cyc= 0.10015734766194648
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6852730854817137 Y_fake= 0.6643534861253323 G_loss= 0.23323222764490828
+epoh= 75 loss_D= 0.6568994857622562 loss_G= 0.1335639863784702 loss_sty= 2.443823275924031e-06 loss_cyc= 0.09966473370582822
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6858622925859448 Y_fake= 0.663765865126373 G_loss= 0.23373041867995886
+epoh= 76 loss_D= 0.6557275812972236 loss_G= 0.13382147563341376 loss_sty= 1.7786510397854727e-06 loss_cyc= 0.09990648704429937
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6877376502002212 Y_fake= 0.6658211369822556 G_loss= 0.23219546907254168
+epoh= 77 loss_D= 0.6568350704210634 loss_G= 0.1323898500806929 loss_sty= 1.7030001461879127e-06 loss_cyc= 0.0998032648962721
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6855846052058041 Y_fake= 0.6636959975207778 G_loss= 0.23369690016654596
+epoh= 78 loss_D= 0.656046786358127 loss_G= 0.13395687271180134 loss_sty= 1.6674470427116486e-06 loss_cyc= 0.09973772829146804
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6866995329037309 Y_fake= 0.6658932974411024 G_loss= 0.2319546432479763
+epoh= 79 loss_D= 0.6571217786420036 loss_G= 0.1323455449978733 loss_sty= 1.6033804660912359e-06 loss_cyc= 0.09960689513811942
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6863030724202257 Y_fake= 0.6644869933936846 G_loss= 0.23288314148934708
+epoh= 80 loss_D= 0.6561444669936758 loss_G= 0.13321764351063836 loss_sty= 1.5632980574918218e-06 loss_cyc= 0.09966335761065066
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.685841216378518 Y_fake= 0.6629082170264745 G_loss= 0.23407002832627277
+epoh= 81 loss_D= 0.6544600149264207 loss_G= 0.13442505647686334 loss_sty= 1.5625611025383034e-06 loss_cyc= 0.09964283206500113
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6868318010725685 Y_fake= 0.6667066293239996 G_loss= 0.23106863391837357
+epoh= 82 loss_D= 0.6578721564288277 loss_G= 0.13141182552066608 loss_sty= 1.9019254633914553e-06 loss_cyc= 0.0996541587865559
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6852274727378342 Y_fake= 0.6640662851969938 G_loss= 0.2328179357321681
+epoh= 83 loss_D= 0.6566866903842704 loss_G= 0.1334857017437399 loss_sty= 1.7214573118336204e-06 loss_cyc= 0.09932982805499656
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6860001771081541 Y_fake= 0.6641735416534986 G_loss= 0.23263690785687366
+epoh= 84 loss_D= 0.65538734624263 loss_G= 0.1334713342996012 loss_sty= 1.597875239354294e-06 loss_cyc= 0.09916337964917861
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6863775794092264 Y_fake= 0.6637433123699313 G_loss= 0.23348734256295436
+epoh= 85 loss_D= 0.6562227898126317 loss_G= 0.13406751190887992 loss_sty= 1.5809697853566487e-06 loss_cyc= 0.0994176382035319
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6875675391481334 Y_fake= 0.6656502916704159 G_loss= 0.2321639998652343
+epoh= 86 loss_D= 0.6569069068929231 loss_G= 0.13265395086931972 loss_sty= 1.5579476292112155e-06 loss_cyc= 0.09950790327747126
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6878582036777122 Y_fake= 0.6645085961507583 G_loss= 0.23278553973933733
+epoh= 87 loss_D= 0.655484712959544 loss_G= 0.13352065740902028 loss_sty= 1.5328718678279689e-06 loss_cyc= 0.09926277672639117
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6878043742900765 Y_fake= 0.6643792682428014 G_loss= 0.2323626241067777
+epoh= 88 loss_D= 0.6552155135904212 loss_G= 0.13351400208429787 loss_sty= 1.6063056960233922e-06 loss_cyc= 0.09884640267842475
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6870827739806594 Y_fake= 0.6644059479790362 G_loss= 0.2320685852256075
+epoh= 89 loss_D= 0.6554948117432965 loss_G= 0.13317023102993247 loss_sty= 1.51339177259738e-06 loss_cyc= 0.09889627265983035
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6867768070786386 Y_fake= 0.6631940073283339 G_loss= 0.23308714751682774
+epoh= 90 loss_D= 0.6545040008385439 loss_G= 0.13395240335140024 loss_sty= 1.532426814584461e-06 loss_cyc= 0.09913263295783435
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+=> Loading checkpoint
+=> Loading checkpoint
+=> Loading checkpoint
+Y_real= 0.6857113485803475 Y_fake= 0.6662366780880336 G_loss= 0.22578433796612396
+epoh= 0 loss_D= 0.6584118464332376 loss_G= 0.12718943037042343 loss_sty= 1.3632076038324943e-06 loss_cyc= 0.09859305424647205
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6849881130195147 Y_fake= 0.6674305624706117 G_loss= 0.2244221986604955
+epoh= 1 loss_D= 0.6597071530020518 loss_G= 0.12583829142071457 loss_sty= 1.322012228745341e-06 loss_cyc= 0.0985821141291888
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6856040555379681 Y_fake= 0.6682350631752932 G_loss= 0.2238349354309911
+epoh= 2 loss_D= 0.6598660057989528 loss_G= 0.12533349949768996 loss_sty= 1.303896212718698e-06 loss_cyc= 0.09849967010558357
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6857986578440948 Y_fake= 0.6683074024606597 G_loss= 0.22348606408057684
+epoh= 3 loss_D= 0.6598040203790407 loss_G= 0.1251514852644775 loss_sty= 1.3038143336146007e-06 loss_cyc= 0.09833281985924554
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.686426946654211 Y_fake= 0.6684321938208431 G_loss= 0.22335004108970533
+epoh= 4 loss_D= 0.6597828233262172 loss_G= 0.12512446783099174 loss_sty= 1.2815725423589921e-06 loss_cyc= 0.09822383547528975
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.686201930058667 Y_fake= 0.6678742087773375 G_loss= 0.22389917967627077
+epoh= 5 loss_D= 0.6592656631601622 loss_G= 0.12546584641126715 loss_sty= 1.279320522863182e-06 loss_cyc= 0.09843160733077172
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6862500925623888 Y_fake= 0.6687835778260754 G_loss= 0.22291713605345403
+epoh= 6 loss_D= 0.6604946018322497 loss_G= 0.12463991053644694 loss_sty= 1.2767021797952946e-06 loss_cyc= 0.09827550143519467
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6847556421558398 Y_fake= 0.6701332577755926 G_loss= 0.22209654377169302
+epoh= 7 loss_D= 0.6632873928677794 loss_G= 0.12378045853630111 loss_sty= 1.2764813077779223e-06 loss_cyc= 0.09831436476953379
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6859057029281315 Y_fake= 0.669222448033759 G_loss= 0.22274141722182567
+epoh= 8 loss_D= 0.6616202805040253 loss_G= 0.12445012306813402 loss_sty= 1.2646203046913158e-06 loss_cyc= 0.09828959020307741
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6855750063534927 Y_fake= 0.6694518343696522 G_loss= 0.22234730086465543
+epoh= 9 loss_D= 0.6617315801968043 loss_G= 0.12412967302559598 loss_sty= 1.2666720448504674e-06 loss_cyc= 0.09821592338974713
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6863957562206967 Y_fake= 0.6684452222181937 G_loss= 0.2232516016213324
+epoh= 10 loss_D= 0.660231084361471 loss_G= 0.12502053102503555 loss_sty= 1.253676951032626e-06 loss_cyc= 0.09822937987612661
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6865932871839283 Y_fake= 0.6687544147685371 G_loss= 0.22299941048353306
+epoh= 11 loss_D= 0.6604402382807756 loss_G= 0.12468684802690798 loss_sty= 1.2591055528409434e-06 loss_cyc= 0.09831086298406778
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6849048811740972 Y_fake= 0.6669928502744517 G_loss= 0.22405710490105823
+epoh= 12 loss_D= 0.659286938444082 loss_G= 0.12597974596664663 loss_sty= 1.2539468190044392e-06 loss_cyc= 0.09807566885767202
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6866778329115462 Y_fake= 0.6695062712816572 G_loss= 0.22263419639470206
+epoh= 13 loss_D= 0.6611754140766287 loss_G= 0.12442962115479482 loss_sty= 1.253259830952408e-06 loss_cyc= 0.09820288432780905
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6868252057229748 Y_fake= 0.66941255390191 G_loss= 0.22262670534562218
+epoh= 14 loss_D= 0.6608778982599443 loss_G= 0.12438656567089335 loss_sty= 1.2467259104006509e-06 loss_cyc= 0.09823845773368974
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6863465890086986 Y_fake= 0.6689350635467751 G_loss= 0.22259013666267935
+epoh= 15 loss_D= 0.6606528819035236 loss_G= 0.12435556858671024 loss_sty= 1.2358278901366567e-06 loss_cyc= 0.0982329019414563
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6871039612294251 Y_fake= 0.6694388368192155 G_loss= 0.22249952341253693
+epoh= 16 loss_D= 0.6607399710227508 loss_G= 0.12417662827332655 loss_sty= 1.2401581910593006e-06 loss_cyc= 0.09832122554134175
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6853909222912546 Y_fake= 0.668570698490618 G_loss= 0.22280071197845344
+epoh= 17 loss_D= 0.6613597633140916 loss_G= 0.12464271474399956 loss_sty= 1.2396401355028896e-06 loss_cyc= 0.09815632563078071
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6856870886089431 Y_fake= 0.6692733691652885 G_loss= 0.2223936612340244
+epoh= 18 loss_D= 0.6616491338338804 loss_G= 0.12414345111638131 loss_sty= 1.2370556526769399e-06 loss_cyc= 0.09824854005883271
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6869119936852036 Y_fake= 0.6685130628127907 G_loss= 0.22297662367880647
+epoh= 19 loss_D= 0.6597232897010809 loss_G= 0.12470985012997345 loss_sty= 1.2338211822557117e-06 loss_cyc= 0.09826510826855697
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6859161946670832 Y_fake= 0.6684862635022885 G_loss= 0.22291739052476212
+epoh= 20 loss_D= 0.6609059743507689 loss_G= 0.12481195384139396 loss_sty= 1.2325397902541965e-06 loss_cyc= 0.09810377665751337
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6861381343364514 Y_fake= 0.6689316923226658 G_loss= 0.22282318215238284
+epoh= 21 loss_D= 0.6615813273835827 loss_G= 0.1245582469076711 loss_sty= 1.2362098840566358e-06 loss_cyc= 0.09826327120331493
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6872827841623409 Y_fake= 0.6708301815732911 G_loss= 0.22117094352929476
+epoh= 22 loss_D= 0.6624341225754973 loss_G= 0.12298463806793145 loss_sty= 1.2404785605680001e-06 loss_cyc= 0.09818463329685147
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6870610377424069 Y_fake= 0.6702913087792695 G_loss= 0.22145438733246378
+epoh= 23 loss_D= 0.662250863539206 loss_G= 0.12332005893207483 loss_sty= 1.2378667314486528e-06 loss_cyc= 0.09813265573088634
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6864536074493583 Y_fake= 0.6693212187446251 G_loss= 0.2221895050244859
+epoh= 24 loss_D= 0.6616509166621679 loss_G= 0.12415262222655017 loss_sty= 1.2374163717951789e-06 loss_cyc= 0.09803521325434181
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6866054514146133 Y_fake= 0.668881818249419 G_loss= 0.22284879702822985
+epoh= 25 loss_D= 0.6609182022763668 loss_G= 0.12462171824409853 loss_sty= 1.236578309298902e-06 loss_cyc= 0.09822541166952736
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6860938651008984 Y_fake= 0.6699302386039415 G_loss= 0.22181250331482874
+epoh= 26 loss_D= 0.6625529127698895 loss_G= 0.12367952382821287 loss_sty= 1.228703332664146e-06 loss_cyc= 0.09813132178592118
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6863216444396892 Y_fake= 0.6691148531170109 G_loss= 0.22214823795759395
+epoh= 27 loss_D= 0.6613549108717691 loss_G= 0.1241190417849056 loss_sty= 1.2270158205521167e-06 loss_cyc= 0.09802754353134062
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6859495318368882 Y_fake= 0.6680025143574018 G_loss= 0.2230529777447668
+epoh= 28 loss_D= 0.6599627962159748 loss_G= 0.12500601085972646 loss_sty= 1.2231811573705322e-06 loss_cyc= 0.09804531828991163
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.686726034530816 Y_fake= 0.6687219412745656 G_loss= 0.2225711246782511
+epoh= 29 loss_D= 0.6602061751953049 loss_G= 0.1245909543665491 loss_sty= 1.2223178502510465e-06 loss_cyc= 0.09797852435243644
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6858324990104381 Y_fake= 0.6684474128021581 G_loss= 0.22295813937671483
+epoh= 30 loss_D= 0.6612491024582571 loss_G= 0.12483919417718425 loss_sty= 1.2155852112521864e-06 loss_cyc= 0.09811730543623452
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6871150058341792 Y_fake= 0.6690258540817209 G_loss= 0.22272384183078603
+epoh= 31 loss_D= 0.6608274040265462 loss_G= 0.12448056762317523 loss_sty= 1.2122856320717335e-06 loss_cyc= 0.0982416404247586
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6871541199727437 Y_fake= 0.670520248080327 G_loss= 0.22122914522785592
+epoh= 32 loss_D= 0.6625507743903309 loss_G= 0.12310563960518511 loss_sty= 1.2138310847984865e-06 loss_cyc= 0.0981218713222424
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6876273375457606 Y_fake= 0.6703216178669922 G_loss= 0.22133640538448016
+epoh= 33 loss_D= 0.6619880043121206 loss_G= 0.12329221556649066 loss_sty= 1.2258488097998182e-06 loss_cyc= 0.09804253598731766
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6864197190372726 Y_fake= 0.6678783270354206 G_loss= 0.22326477696313649
+epoh= 34 loss_D= 0.6599622382153127 loss_G= 0.12526268642033903 loss_sty= 1.2266252724657534e-06 loss_cyc= 0.09800043757816122
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6859951083221145 Y_fake= 0.6699556974266228 G_loss= 0.22157587937230394
+epoh= 35 loss_D= 0.6625618306869591 loss_G= 0.12367586215338167 loss_sty= 1.2158688691301535e-06 loss_cyc= 0.09789837756810861
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6871496675712233 Y_fake= 0.6697559455233449 G_loss= 0.22209885336357998
+epoh= 36 loss_D= 0.6614076923201414 loss_G= 0.12394279819233595 loss_sty= 1.2175558527520184e-06 loss_cyc= 0.09815441369160859
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6866636111124141 Y_fake= 0.6688037556344392 G_loss= 0.22233232759832833
+epoh= 37 loss_D= 0.660411186604383 loss_G= 0.12436789257068036 loss_sty= 1.2179536153436512e-06 loss_cyc= 0.09796279400423472
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6859944167521757 Y_fake= 0.6680080744538557 G_loss= 0.22290626649014852
+epoh= 38 loss_D= 0.65989277923379 loss_G= 0.1251025315007585 loss_sty= 1.208951424495034e-06 loss_cyc= 0.0978021070210112
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6863246949867824 Y_fake= 0.669235580739238 G_loss= 0.22220965887961053
+epoh= 39 loss_D= 0.661670123151428 loss_G= 0.12420837451134355 loss_sty= 1.2086117159334527e-06 loss_cyc= 0.09799965515550277
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.686490924739455 Y_fake= 0.6701696107189197 G_loss= 0.22142089204862714
+epoh= 40 loss_D= 0.6618605753205515 loss_G= 0.12357394182047732 loss_sty= 1.1995182929338724e-06 loss_cyc= 0.09784533212124999
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.687131518523234 Y_fake= 0.6696788543155668 G_loss= 0.22191969209627524
+epoh= 41 loss_D= 0.6619582860353025 loss_G= 0.12381706630018212 loss_sty= 1.2044548949799374e-06 loss_cyc= 0.09810100369016968
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6872031395449429 Y_fake= 0.6703623401479343 G_loss= 0.22156017630147068
+epoh= 42 loss_D= 0.6624950777512748 loss_G= 0.12346924314388653 loss_sty= 1.207661398439086e-06 loss_cyc= 0.09808930485647775
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6862561426855422 Y_fake= 0.6676628108237039 G_loss= 0.2232380662226697
+epoh= 43 loss_D= 0.6601921763975878 loss_G= 0.12534520749358233 loss_sty= 1.2055073831426263e-06 loss_cyc= 0.09789123553216357
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6862001988936115 Y_fake= 0.6699951917587502 G_loss= 0.22167621232015458
+epoh= 44 loss_D= 0.6622315317870596 loss_G= 0.12368982730471101 loss_sty= 1.1933319345533508e-06 loss_cyc= 0.09798477433238027
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6863579955707128 Y_fake= 0.6690312784190315 G_loss= 0.22195488406735397
+epoh= 45 loss_D= 0.6605398516749611 loss_G= 0.12403551623071041 loss_sty= 1.1968624086285992e-06 loss_cyc= 0.09791775278249956
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6873307993031434 Y_fake= 0.6704395386591755 G_loss= 0.22115494359939084
+epoh= 46 loss_D= 0.6625336949033914 loss_G= 0.12324226317247627 loss_sty= 1.193860000696716e-06 loss_cyc= 0.09791106762005822
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6855832635475373 Y_fake= 0.6688863501279942 G_loss= 0.22216441254194425
+epoh= 47 loss_D= 0.6616037854597576 loss_G= 0.1243691337184754 loss_sty= 1.1966984722086046e-06 loss_cyc= 0.09779366570669604
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6864784253459122 Y_fake= 0.6702531543560326 G_loss= 0.22146681119763367
+epoh= 48 loss_D= 0.6624382056950314 loss_G= 0.12349700633156416 loss_sty= 1.1920556799678536e-06 loss_cyc= 0.0979681981938287
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6866543302186638 Y_fake= 0.6679797055627648 G_loss= 0.2225812416636964
+epoh= 49 loss_D= 0.6594820067890592 loss_G= 0.1248622892764271 loss_sty= 1.197332463758554e-06 loss_cyc= 0.09771733595265981
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6859211275051977 Y_fake= 0.6696143208474323 G_loss= 0.22187656473141867
+epoh= 50 loss_D= 0.661736222676228 loss_G= 0.12387675849557225 loss_sty= 1.1864575618666414e-06 loss_cyc= 0.09799820198394307
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6871311063878238 Y_fake= 0.6710041277362285 G_loss= 0.22065384593804846
+epoh= 51 loss_D= 0.6630421211263416 loss_G= 0.12288647355760347 loss_sty= 1.1882583429404484e-06 loss_cyc= 0.09776576789649757
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6860562955608239 Y_fake= 0.6698533661185285 G_loss= 0.22164964273169235
+epoh= 52 loss_D= 0.6629271525134509 loss_G= 0.12375197804067284 loss_sty= 1.1878039643036303e-06 loss_cyc= 0.09789606427138269
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6869071148637984 Y_fake= 0.6696159656008555 G_loss= 0.22147044346894365
+epoh= 53 loss_D= 0.6612701166320492 loss_G= 0.12365761642404077 loss_sty= 1.181471029790496e-06 loss_cyc= 0.09781122966386327
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6864092155057635 Y_fake= 0.6696826177397491 G_loss= 0.2216919153626706
+epoh= 54 loss_D= 0.6620509190409368 loss_G= 0.12374881467769376 loss_sty= 1.1843372163098507e-06 loss_cyc= 0.09794150078291627
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6872956031883085 Y_fake= 0.6710268504338691 G_loss= 0.22071963871791456
+epoh= 55 loss_D= 0.6631961921104104 loss_G= 0.12295096948651622 loss_sty= 1.1895374489147404e-06 loss_cyc= 0.09776706395771455
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6856939282419311 Y_fake= 0.668374563869391 G_loss= 0.22240620327962413
+epoh= 56 loss_D= 0.6608567446520602 loss_G= 0.12462105299346149 loss_sty= 1.1881065495037695e-06 loss_cyc= 0.09778354815962548
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6862351890225467 Y_fake= 0.6684795180083932 G_loss= 0.22253542417358305
+epoh= 57 loss_D= 0.660054777295807 loss_G= 0.12469771069260566 loss_sty= 1.181709182207202e-06 loss_cyc= 0.09783611534874433
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6862145061730534 Y_fake= 0.6686721546449572 G_loss= 0.22224935602296042
+epoh= 58 loss_D= 0.6603799906836169 loss_G= 0.12444033699166784 loss_sty= 1.1791698607093831e-06 loss_cyc= 0.09780742847392135
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6875805711575054 Y_fake= 0.6706892313762896 G_loss= 0.22079233084868238
+epoh= 59 loss_D= 0.6624623912235571 loss_G= 0.12301525467537923 loss_sty= 1.1777548590199896e-06 loss_cyc= 0.09777548486945799
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6863244828969441 Y_fake= 0.6690470176824445 G_loss= 0.22213119248909927
+epoh= 60 loss_D= 0.6617756898489755 loss_G= 0.12422034036560059 loss_sty= 1.1814894409129724e-06 loss_cyc= 0.09790925676871494
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6857048200090995 Y_fake= 0.6699691793780673 G_loss= 0.22129075506676896
+epoh= 61 loss_D= 0.6630360697824005 loss_G= 0.1236080453271751 loss_sty= 1.1788981491672285e-06 loss_cyc= 0.09768111999555668
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6869169694648402 Y_fake= 0.6707891528998073 G_loss= 0.2207450664262413
+epoh= 62 loss_D= 0.6629249004370256 loss_G= 0.12289098994350187 loss_sty= 1.168313253180492e-06 loss_cyc= 0.09785249948224707
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6879954149795545 Y_fake= 0.6717868319309845 G_loss= 0.2201165365294327
+epoh= 63 loss_D= 0.6636448275625102 loss_G= 0.12240354997039823 loss_sty= 1.179470657646291e-06 loss_cyc= 0.09771139958930025
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6865381101851125 Y_fake= 0.6707580616899036 G_loss= 0.22089179084523003
+epoh= 64 loss_D= 0.6634492435794626 loss_G= 0.12309448261166343 loss_sty= 1.1769835460605414e-06 loss_cyc= 0.09779572138418066
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.686579581891262 Y_fake= 0.6704664206308489 G_loss= 0.22114284267347004
+epoh= 65 loss_D= 0.6627004577249691 loss_G= 0.12326356802588782 loss_sty= 1.1703048069132304e-06 loss_cyc= 0.09787769185542758
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.687857663938524 Y_fake= 0.6698942206472762 G_loss= 0.22154234905374814
+epoh= 66 loss_D= 0.661188002940066 loss_G= 0.12363483381813166 loss_sty= 1.1763573159417295e-06 loss_cyc= 0.09790592760042716
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.687583188488576 Y_fake= 0.6709984999426918 G_loss= 0.2206533087474118
+epoh= 67 loss_D= 0.6626719659496401 loss_G= 0.1227641885367071 loss_sty= 1.1764642307310635e-06 loss_cyc= 0.09788753224121458
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6874862057911987 Y_fake= 0.6714323289390352 G_loss= 0.22015960966048106
+epoh= 68 loss_D= 0.6632875746141214 loss_G= 0.12247543758083437 loss_sty= 1.175683577015219e-06 loss_cyc= 0.09768258440119491
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6870116394365559 Y_fake= 0.6693835310965173 G_loss= 0.2217390631841546
+epoh= 69 loss_D= 0.661734755528537 loss_G= 0.12403262222289561 loss_sty= 1.1737129232249178e-06 loss_cyc= 0.0977048568499929
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.686279828169358 Y_fake= 0.6688026958900327 G_loss= 0.22189071972388774
+epoh= 70 loss_D= 0.661201305473475 loss_G= 0.12425026486901491 loss_sty= 1.1771349707831522e-06 loss_cyc= 0.09763886427941001
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6871041126826124 Y_fake= 0.6699703693440234 G_loss= 0.22126489194311402
+epoh= 71 loss_D= 0.6624334759859217 loss_G= 0.12349735664493228 loss_sty= 1.1762868915546868e-06 loss_cyc= 0.09776594408322126
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6859634311970424 Y_fake= 0.6713414852306046 G_loss= 0.22047936742672244
+epoh= 72 loss_D= 0.6644976147626703 loss_G= 0.12262625164018844 loss_sty= 1.1689946736500919e-06 loss_cyc= 0.09785153592206738
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6866896981625138 Y_fake= 0.6695261107556321 G_loss= 0.22128200594562333
+epoh= 73 loss_D= 0.6620441293973174 loss_G= 0.12369579887741271 loss_sty= 1.1640713145843129e-06 loss_cyc= 0.09758463292225339
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6865422617442705 Y_fake= 0.6712975270819623 G_loss= 0.2202448954151289
+epoh= 74 loss_D= 0.6640289123044223 loss_G= 0.1225760254703739 loss_sty= 1.1654375784191132e-06 loss_cyc= 0.09766729464251045
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6864742115517525 Y_fake= 0.670961768127273 G_loss= 0.22044712880223588
+epoh= 75 loss_D= 0.6637890890895112 loss_G= 0.12284964556661057 loss_sty= 1.1672694236531733e-06 loss_cyc= 0.09759590403818702
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6884673318095706 Y_fake= 0.67061383182787 G_loss= 0.22067568347965544
+epoh= 76 loss_D= 0.66094118822366 loss_G= 0.12291836819762515 loss_sty= 1.1723790570662508e-06 loss_cyc= 0.09775573254651013
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.685615058937991 Y_fake= 0.6688553401822778 G_loss= 0.22202068892294993
+epoh= 77 loss_D= 0.6620393647132693 loss_G= 0.12433929211378249 loss_sty= 1.1719838324564546e-06 loss_cyc= 0.09767981404690323
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6868523454696343 Y_fake= 0.6709019904704513 G_loss= 0.22042435156244383
+epoh= 78 loss_D= 0.6628981268385777 loss_G= 0.12280211419833044 loss_sty= 1.1675306575705542e-06 loss_cyc= 0.0976206621759244
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6877358526092123 Y_fake= 0.6713859569784757 G_loss= 0.22022612141508208
+epoh= 79 loss_D= 0.6631892428582383 loss_G= 0.12259561153257743 loss_sty= 1.1690552656619804e-06 loss_cyc= 0.09762893504041524
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6851363938326973 Y_fake= 0.6705256078543292 G_loss= 0.22054748088310197
+epoh= 80 loss_D= 0.6647582106997032 loss_G= 0.12301745716988965 loss_sty= 1.1633129250529581e-06 loss_cyc= 0.09752845114279488
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6878529651392553 Y_fake= 0.6716711145095728 G_loss= 0.2199175134269722
+epoh= 81 loss_D= 0.6633707487427101 loss_G= 0.12223914104696312 loss_sty= 1.1659779534671248e-06 loss_cyc= 0.09767679814438059
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6871184200753231 Y_fake= 0.6705981361226657 G_loss= 0.2207686843702922
+epoh= 82 loss_D= 0.6627552032319678 loss_G= 0.12297687260276713 loss_sty= 1.1639530741278478e-06 loss_cyc= 0.09779024077264743
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6876310911155432 Y_fake= 0.6707670017070061 G_loss= 0.22067267103183613
+epoh= 83 loss_D= 0.6629243310339548 loss_G= 0.12294492268513234 loss_sty= 1.167754583769459e-06 loss_cyc= 0.09772617415984387
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6878281587332085 Y_fake= 0.6712317836244364 G_loss= 0.2201503122420478
+epoh= 84 loss_D= 0.6627667875633247 loss_G= 0.1225299572248037 loss_sty= 1.1546419623423513e-06 loss_cyc= 0.09761879344571482
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6861955534314385 Y_fake= 0.6704610778723616 G_loss= 0.22091006023205212
+epoh= 85 loss_D= 0.6638799674204878 loss_G= 0.12323851061188867 loss_sty= 1.1606184794013767e-06 loss_cyc= 0.09766998375935883
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.687431530586469 Y_fake= 0.6686687594959261 G_loss= 0.22188273186770244
+epoh= 86 loss_D= 0.6606040291513342 loss_G= 0.1243575867336256 loss_sty= 1.1669928758114896e-06 loss_cyc= 0.09752356785985113
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6864760034415569 Y_fake= 0.6705602359630771 G_loss= 0.2208581991317506
+epoh= 87 loss_D= 0.6630183930533964 loss_G= 0.12309075195446133 loss_sty= 1.1635207384470788e-06 loss_cyc= 0.09776587616117369
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.686738814881726 Y_fake= 0.6717883979750646 G_loss= 0.21966754914437597
+epoh= 88 loss_D= 0.6640473734713286 loss_G= 0.12212767998288335 loss_sty= 1.1584562602168976e-06 loss_cyc= 0.09753830348475005
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6861722772135526 Y_fake= 0.6689882828300265 G_loss= 0.22149167040274856
+epoh= 89 loss_D= 0.6613827315914268 loss_G= 0.12399497537675465 loss_sty= 1.1514607711039905e-06 loss_cyc= 0.09749514201335055
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6863554178460224 Y_fake= 0.6693145720212644 G_loss= 0.22123447087958353
+epoh= 90 loss_D= 0.6613006905677754 loss_G= 0.12375575787626912 loss_sty= 1.155071477360498e-06 loss_cyc= 0.09747715255660885
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6871216812900998 Y_fake= 0.6709290463603228 G_loss= 0.2205730732719137
+epoh= 91 loss_D= 0.6630987104884273 loss_G= 0.12291202502721618 loss_sty= 1.1470171582029277e-06 loss_cyc= 0.09765949622079781
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6879378552171024 Y_fake= 0.6716649117250297 G_loss= 0.21982362609658693
+epoh= 92 loss_D= 0.6634970695107572 loss_G= 0.12227987760766032 loss_sty= 1.145802165459876e-06 loss_cyc= 0.09754219705968895
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6864966472510148 Y_fake= 0.6700580994774764 G_loss= 0.2208518217745665
+epoh= 93 loss_D= 0.6625541123888783 loss_G= 0.12328657946970968 loss_sty= 1.1497399825472982e-06 loss_cyc= 0.09756369029039617
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6872992937931338 Y_fake= 0.6713628374870766 G_loss= 0.21994655069303573
+epoh= 94 loss_D= 0.6634955051027842 loss_G= 0.12227415437558414 loss_sty= 1.1474605553057454e-06 loss_cyc= 0.09767084540107061
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6870362088839347 Y_fake= 0.6700113122225613 G_loss= 0.22091980496534724
+epoh= 95 loss_D= 0.6618953419320688 loss_G= 0.12336340395740007 loss_sty= 1.1489029463051782e-06 loss_cyc= 0.09755484542394108
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6860233644350759 Y_fake= 0.6696609168539982 G_loss= 0.22126652525007925
+epoh= 96 loss_D= 0.6632287333895629 loss_G= 0.1236989498980079 loss_sty= 1.149974232740115e-06 loss_cyc= 0.09756602275474752
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6873818531984816 Y_fake= 0.6711663402919028 G_loss= 0.2200846523486984
+epoh= 97 loss_D= 0.6629058940814355 loss_G= 0.12261840289637975 loss_sty= 1.1528096439252369e-06 loss_cyc= 0.09746469554610902
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6870945376545392 Y_fake= 0.6721777938608382 G_loss= 0.21936219064141246
+epoh= 98 loss_D= 0.6647309419396963 loss_G= 0.12183880172292325 loss_sty= 1.13750875980996e-06 loss_cyc= 0.09752185330600352
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+Y_real= 0.6869097994892178 Y_fake= 0.6688364114914391 G_loss= 0.22166568416837804
+epoh= 99 loss_D= 0.6609267725332363 loss_G= 0.12420746191826372 loss_sty= 1.148254919039696e-06 loss_cyc= 0.09745667042915483
+=> Saving checkpoint
+=> Saving checkpoint
+=> Saving checkpoint
+  0%|          | 0/60 [00:00<?, ?it/s]  2%|▏         | 1/60 [00:00<00:18,  3.11it/s]  3%|▎         | 2/60 [00:00<00:18,  3.14it/s]  5%|▌         | 3/60 [00:00<00:16,  3.36it/s]  7%|▋         | 4/60 [00:01<00:17,  3.22it/s]  8%|▊         | 5/60 [00:01<00:16,  3.31it/s] 10%|█         | 6/60 [00:01<00:16,  3.31it/s] 12%|█▏        | 7/60 [00:02<00:15,  3.33it/s] 13%|█▎        | 8/60 [00:02<00:15,  3.35it/s] 15%|█▌        | 9/60 [00:02<00:16,  3.04it/s] 17%|█▋        | 10/60 [00:03<00:15,  3.15it/s] 18%|█▊        | 11/60 [00:03<00:16,  2.91it/s] 20%|██        | 12/60 [00:03<00:14,  3.27it/s] 22%|██▏       | 13/60 [00:04<00:14,  3.30it/s] 23%|██▎       | 14/60 [00:04<00:13,  3.39it/s] 25%|██▌       | 15/60 [00:04<00:13,  3.38it/s] 27%|██▋       | 16/60 [00:04<00:12,  3.62it/s] 28%|██▊       | 17/60 [00:05<00:12,  3.54it/s] 30%|███       | 18/60 [00:05<00:11,  3.55it/s] 32%|███▏      | 19/60 [00:05<00:12,  3.41it/s] 33%|███▎      | 20/60 [00:06<00:11,  3.35it/s] 35%|███▌      | 21/60 [00:06<00:12,  3.12it/s] 37%|███▋      | 22/60 [00:06<00:11,  3.45it/s] 38%|███▊      | 23/60 [00:06<00:10,  3.43it/s] 40%|████      | 24/60 [00:07<00:11,  3.15it/s] 42%|████▏     | 25/60 [00:07<00:10,  3.22it/s] 43%|████▎     | 26/60 [00:07<00:10,  3.25it/s] 45%|████▌     | 27/60 [00:08<00:10,  3.23it/s] 47%|████▋     | 28/60 [00:08<00:09,  3.25it/s] 48%|████▊     | 29/60 [00:08<00:09,  3.23it/s] 50%|█████     | 30/60 [00:09<00:09,  3.08it/s] 52%|█████▏    | 31/60 [00:09<00:08,  3.34it/s] 53%|█████▎    | 32/60 [00:09<00:08,  3.31it/s] 55%|█████▌    | 33/60 [00:10<00:08,  3.35it/s] 57%|█████▋    | 34/60 [00:10<00:07,  3.31it/s] 58%|█████▊    | 35/60 [00:10<00:07,  3.40it/s] 60%|██████    | 36/60 [00:10<00:07,  3.41it/s] 62%|██████▏   | 37/60 [00:11<00:06,  3.37it/s] 63%|██████▎   | 38/60 [00:11<00:06,  3.40it/s] 65%|██████▌   | 39/60 [00:11<00:05,  3.55it/s] 67%|██████▋   | 40/60 [00:12<00:05,  3.57it/s] 68%|██████▊   | 41/60 [00:12<00:05,  3.51it/s] 70%|███████   | 42/60 [00:12<00:05,  3.53it/s] 72%|███████▏  | 43/60 [00:12<00:04,  3.50it/s] 73%|███████▎  | 44/60 [00:13<00:05,  3.12it/s] 75%|███████▌  | 45/60 [00:13<00:04,  3.15it/s] 77%|███████▋  | 46/60 [00:13<00:04,  3.22it/s] 78%|███████▊  | 47/60 [00:14<00:04,  3.16it/s] 80%|████████  | 48/60 [00:14<00:03,  3.03it/s] 82%|████████▏ | 49/60 [00:14<00:03,  3.06it/s] 83%|████████▎ | 50/60 [00:15<00:03,  2.88it/s] 85%|████████▌ | 51/60 [00:15<00:02,  3.20it/s] 87%|████████▋ | 52/60 [00:15<00:02,  3.08it/s] 88%|████████▊ | 53/60 [00:16<00:02,  3.15it/s] 90%|█████████ | 54/60 [00:16<00:01,  3.12it/s] 92%|█████████▏| 55/60 [00:16<00:01,  3.18it/s] 93%|█████████▎| 56/60 [00:17<00:01,  3.22it/s] 95%|█████████▌| 57/60 [00:17<00:00,  3.22it/s] 97%|█████████▋| 58/60 [00:17<00:00,  3.26it/s] 98%|█████████▊| 59/60 [00:18<00:00,  3.38it/s]100%|██████████| 60/60 [00:18<00:00,  3.09it/s]100%|██████████| 60/60 [00:18<00:00,  3.26it/s]
+Traceback (most recent call last):
+  File "train.py", line 225, in <module>
+    main()
+  File "train.py", line 222, in main
+    testval.test_all_val(gen, encoder, src_val, ref_val, folder='./all_val')
+  File "/root/project/flim_v3/testval.py", line 58, in test_all_val
+    combine()
+  File "/root/project/flim_v3/combine_result.py", line 17, in combine
+    imgs = np.array(imgs).reshape(-1, 3)
+ValueError: cannot reshape array of size 215 into shape (3)
+=> Loading checkpoint
+=> Loading checkpoint
+=> Loading checkpoint
